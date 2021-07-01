@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Online Store Customer Purchase Prediction</h1>
     <img src="./asset/logo.png" alt="logo"/>
-    <small><strong>Photo by <a href="https://unsplash.com/@visuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">visuals</a> on <a href="https://unsplash.com/s/photos/covid-mask?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></strong></small>
+    <small><strongPhoto by <a href="https://unsplash.com/@mikepetrucci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mike Petrucci</a> on <a href="https://unsplash.com/s/photos/small-store?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></strong></small>
 </div>
 
 ---
